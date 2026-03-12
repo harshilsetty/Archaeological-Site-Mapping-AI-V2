@@ -151,6 +151,20 @@ python terrain_model/extract_terrain_features.py
 
 This script derives a small terrain-style feature table using vegetation ratio, simulated slope, simulated elevation, and erosion-risk labels.
 
+## Screenshots
+
+### Hampi Example
+
+![Hampi app output](docs/screenshots/app-hampi.png)
+
+### Khajuraho Example
+
+![Khajuraho app output](docs/screenshots/app-khajuraho.png)
+
+### Nalanda Example
+
+![Nalanda app output](docs/screenshots/app-nalanda.png)
+
 ## Key Files
 
 - `app.py`: Streamlit application for interactive inference
