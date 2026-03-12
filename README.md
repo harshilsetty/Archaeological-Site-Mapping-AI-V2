@@ -261,12 +261,6 @@ From the saved local YOLO training run:
 - `train_seg.py` is the YOLO detection training script despite its generic name.
 - `requirements.txt` is inferred from project imports and has not been exported from a fully locked environment.
 
-## Recommended Improvements
 
-- add a fully pinned environment file or `pyproject.toml`
-- rename training scripts for clearer intent
-- add sample screenshots or demo outputs
-- document dataset acquisition or reconstruction steps
-- add saved segmentation evaluation outputs similar to the YOLO results logs
 
 
