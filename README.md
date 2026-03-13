@@ -158,7 +158,6 @@ Included in this repository:
 
 Excluded from this repository:
 
-- runs/
 - large experimental outputs
 - intermediate model checkpoints
 
@@ -259,19 +258,6 @@ The interface supports:
 - class filtering
 - confidence threshold control
 
-### Extract Terrain Features
-
-```bash
-python terrain_model/extract_terrain_features.py
-```
-
-Generates terrain feature tables including:
-
-- vegetation ratio
-- simulated slope
-- simulated elevation
-- erosion-risk classification
-
 ## Screenshots
 
 ### Hampi Example
@@ -342,7 +328,6 @@ Used in DeepLab model:
 | Structures | 230 |
 | Total | 18458 |
 
-The dataset shows class imbalance, with vegetation dominating the dataset.
 
 ## Dataset Locations
 
